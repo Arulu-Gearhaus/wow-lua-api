@@ -1,5 +1,6 @@
 # WOWLA
 ## World of Warcraft: Lua API
+WOWLA is hosted with [GitHub Pages](https://pages.github.com/). [Click here](https://arulu-gearhaus.github.io/wowla/) to see the site!
 ----
 ### What is WOWLA?
 WOWLA is (at the moment) a personal project to bring together and update as needed any available documentation on the LUA Api for World of Warcraft.
