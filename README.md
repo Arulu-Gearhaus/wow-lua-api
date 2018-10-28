@@ -1,3 +1,5 @@
+# Evidently there exists several AddOns that make this project unnecessary for the moment. I'll keep it here because I ~~dont throw anything away~~ might need it at some point to remind myself about making a Git hosted webpage.
+
 # WOWLA
 ## World of Warcraft: Lua API
 ### [WOWLA Site](https://arulu-gearhaus.github.io/wowla/)
